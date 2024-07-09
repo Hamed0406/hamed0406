@@ -85,6 +85,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
+## 🏅 Certifications
 
 <!--START_SECTION:badges-->
 [![LFS211: Linux Networking and Administration](https://images.credly.com/size/110x110/images/619bc2a6-cc83-4c1a-a23e-a663e19541b5/image.png)](http://www.credly.com/badges/e9b0c745-bee5-4239-9b53-4b9e2374df38 "LFS211: Linux Networking and Administration")
