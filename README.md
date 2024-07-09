@@ -86,6 +86,9 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 📬 Contact
 Feel free to reach out for collaborations, questions, or any inquiries:
 
