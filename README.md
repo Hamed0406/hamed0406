@@ -88,6 +88,10 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ## 🏅 Certifications
 
 <!--START_SECTION:badges-->
+[![LFS157: Introduction to Serverless on Kubernetes](https://images.credly.com/size/110x110/images/83d41482-6766-4eed-bcb1-00d8757cd223/image.png)](http://www.credly.com/badges/6cffe731-a64d-4e48-9adc-c7aa392a1d92 "LFS157: Introduction to Serverless on Kubernetes")
+[![LFS145: Introduction to Protocol Buffers](https://images.credly.com/size/110x110/images/75f8e656-f78f-4ba5-a98b-802db40c91ff/image.png)](http://www.credly.com/badges/07e7d378-b36e-40cd-831c-dfc0421697a1 "LFS145: Introduction to Protocol Buffers")
+[![LFS183: Introduction to Zero Trust](https://images.credly.com/size/110x110/images/8947acd8-1686-4de1-9dcf-853bd6fd25c4/image.png)](http://www.credly.com/badges/1e32e0e3-da6c-4bc1-9d12-06a489d1a5e8 "LFS183: Introduction to Zero Trust")
+[![LFEL1011: OpenAPI Fundamentals](https://images.credly.com/size/110x110/images/310767de-989a-45b8-a902-b8a09835a4db/image.png)](http://www.credly.com/badges/e8063aef-a388-4e17-8a60-b8048837e061 "LFEL1011: OpenAPI Fundamentals")
 [![LFS211: Linux Networking and Administration](https://images.credly.com/size/110x110/images/619bc2a6-cc83-4c1a-a23e-a663e19541b5/image.png)](http://www.credly.com/badges/e9b0c745-bee5-4239-9b53-4b9e2374df38 "LFS211: Linux Networking and Administration")
 [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/4de3d89a-aa5b-4cdf-a037-5ed8343c0e0e "ISC2 Candidate")
 [![Introduction to the Threat Landscape 1.0](https://images.credly.com/size/110x110/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png)](http://www.credly.com/badges/e83e7c96-cf52-4e5c-aff5-bacfae6fb9df "Introduction to the Threat Landscape 1.0")
