@@ -77,7 +77,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Containers]([https://your-repository-url/path-to-your-image.png](https://github.com/Hamed0406/hamed0406/blob/main/conteraner.png)
 
 
 
