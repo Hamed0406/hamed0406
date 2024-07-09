@@ -79,7 +79,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-📝 Blog
+📝 
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
@@ -87,7 +87,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ## 📬 Contact
 Feel free to reach out for collaborations, questions, or any inquiries:
 
-Email: [Adeli.hamed@proton.me]
+Email: [adeli.hamed@proton.me]
 Website: Hadeli.me
 Thank you for visiting my GitHub profile! Explore my repositories and feel free to contribute.
 
