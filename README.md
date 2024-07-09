@@ -19,7 +19,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-#### Frameworks
+#### 🛠️ Frameworks
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -37,7 +37,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-#### 🔬 CI/CD Tools
+#### 🚀 CI/CD Tools
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -49,7 +49,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-#### IDEs
+#### 🖊️ IDEs
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -67,7 +67,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-####  :whale:	 Containerization 
+####  :whale: Containerization 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -75,7 +75,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ![Podman](https://img.shields.io/static/v1?style=for-the-badge&message=Podman&color=892CA0&logo=Podman&logoColor=FFFFFF&label=)
 ![Linux Containers](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Containers&color=333333&logo=Linux+Containers&logoColor=FFFFFF&label=)
 
-#### ML/DL 
+#### 🤖 ML/DL 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
@@ -84,7 +84,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 
-## Contact
+## 📬 Contact
 Feel free to reach out for collaborations, questions, or any inquiries:
 
 Email: [Adeli.hamed@proton.me]
