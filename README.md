@@ -41,6 +41,8 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)
+
 
 #### ☁️ Cloud Platforms
 
