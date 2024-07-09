@@ -95,8 +95,6 @@ Thank you for visiting my GitHub profile! Explore my repositories and feel free 
 
 
 
-
-
-
+  [![HitCount](https://hits.dwyl.com/hamed0406/hamed0406.svg?style=flat-square)](http://hits.dwyl.com/hamed0406/hamed0406)
 
 
