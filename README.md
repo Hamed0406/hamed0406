@@ -88,6 +88,11 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ## 🏅 Certifications
 
 <!--START_SECTION:badges-->
+[![LFEL1002: Getting Started with Rust](https://images.credly.com/size/110x110/images/9e478ab1-75e8-48ab-a34b-de956403d397/image.png)](http://www.credly.com/badges/cd8fd2c8-2d4b-4d3f-aed3-ef5471e24ce3 "LFEL1002: Getting Started with Rust")
+[![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/110x110/images/ca60f290-ab82-476a-8ea0-af2bef5ca7ca/image.png)](http://www.credly.com/badges/2f43ea24-7961-4ded-a572-1470260160e2 "LFEL1014: Scaling Cloud Native Applications with KEDA")
+[![LFS147: Introduction to AI/ML Toolkits with Kubeflow](https://images.credly.com/size/110x110/images/f5da57c6-29ad-4b68-870c-ae4dfb4beb67/image.png)](http://www.credly.com/badges/61f57804-dbbf-4dc5-bbc7-f50a1429b70c "LFS147: Introduction to AI/ML Toolkits with Kubeflow")
+[![LFS118: Ethical Principles for Conversational AI](https://images.credly.com/size/110x110/images/b8325773-2933-49b4-917b-9d1c6a03f9f2/image.png)](http://www.credly.com/badges/5b912b5a-172e-417e-aa52-a350a52ade67 "LFS118: Ethical Principles for Conversational AI")
+[![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/110x110/images/f7cec857-af48-48b2-897a-ff98e446d6e1/image.png)](http://www.credly.com/badges/4f36502a-93a4-433a-ba4d-02cb7cfc4aea "LFS162: Introduction to DevOps and Site Reliability Engineering")
 [![LFS157: Introduction to Serverless on Kubernetes](https://images.credly.com/size/110x110/images/83d41482-6766-4eed-bcb1-00d8757cd223/image.png)](http://www.credly.com/badges/6cffe731-a64d-4e48-9adc-c7aa392a1d92 "LFS157: Introduction to Serverless on Kubernetes")
 [![LFS145: Introduction to Protocol Buffers](https://images.credly.com/size/110x110/images/75f8e656-f78f-4ba5-a98b-802db40c91ff/image.png)](http://www.credly.com/badges/07e7d378-b36e-40cd-831c-dfc0421697a1 "LFS145: Introduction to Protocol Buffers")
 [![LFS183: Introduction to Zero Trust](https://images.credly.com/size/110x110/images/8947acd8-1686-4de1-9dcf-853bd6fd25c4/image.png)](http://www.credly.com/badges/1e32e0e3-da6c-4bc1-9d12-06a489d1a5e8 "LFS183: Introduction to Zero Trust")
