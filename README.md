@@ -88,6 +88,10 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ## 🏅 Certifications
 
 <!--START_SECTION:badges-->
+[![LFS111: Open Source and the 5G Transition](https://images.credly.com/size/110x110/images/2a7254bb-1832-40aa-912a-7f85900f93ce/blob)](http://www.credly.com/badges/fc123d01-81c4-4aae-94d6-5d4d7f44103a "LFS111: Open Source and the 5G Transition")
+[![SKF100: Understanding the OWASP® Top 10 Security Threats](https://images.credly.com/size/110x110/images/18d8c64f-cf68-4259-b0ef-2a116e9224f1/blob)](http://www.credly.com/badges/b83a94ff-b0ed-495c-a785-77c394d2c69a "SKF100: Understanding the OWASP® Top 10 Security Threats")
+[![LFS170: Blockchain - Understanding Its Uses and Implications](https://images.credly.com/size/110x110/images/c0f9fdd5-b0f0-4d4a-b150-b7c01d9d1208/blob)](http://www.credly.com/badges/b9030c17-a3ff-46b8-a458-dccf0a2abf58 "LFS170: Blockchain - Understanding Its Uses and Implications")
+[![LFS167: Introduction to Jenkins](https://images.credly.com/size/110x110/images/0f5127c3-639b-47f2-abca-01107591c639/blob)](http://www.credly.com/badges/a545ab8d-b553-4491-bbaa-9b439d4392a8 "LFS167: Introduction to Jenkins")
 [![LFEL1002: Getting Started with Rust](https://images.credly.com/size/110x110/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob)](http://www.credly.com/badges/cd8fd2c8-2d4b-4d3f-aed3-ef5471e24ce3 "LFEL1002: Getting Started with Rust")
 [![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/110x110/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](http://www.credly.com/badges/2f43ea24-7961-4ded-a572-1470260160e2 "LFEL1014: Scaling Cloud Native Applications with KEDA")
 [![LFS147: Introduction to AI/ML Toolkits with Kubeflow](https://images.credly.com/size/110x110/images/906144d4-60a6-467f-8b0f-006d4548844f/blob)](http://www.credly.com/badges/61f57804-dbbf-4dc5-bbc7-f50a1429b70c "LFS147: Introduction to AI/ML Toolkits with Kubeflow")
@@ -132,10 +136,6 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 [![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/1cbf0444-1752-4ac8-b43c-3389004bec2a/blob)](http://www.credly.com/badges/05d4a310-82bd-429f-9147-675147c7ba71 "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/110x110/images/82966826-6630-4768-80d4-6028b3fab414/image.png)](http://www.credly.com/badges/6cf73f2b-d151-46c6-aac1-e5f4e01e77e2 "Containers & Kubernetes Essentials")
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/fdcea632-b5d0-459c-a719-e1706c1faa52 "Microsoft Certified: Azure Developer Associate")
-[![Hybrid Cloud Conference – App Security and Threat Modeler](https://images.credly.com/size/110x110/images/f93b9f99-8d58-431e-82a6-a44c3ab7e668/Hybrid_Cloud_Conf_-_App_Sec_and_Threat_Modler.png)](http://www.credly.com/badges/14a8b821-d032-4bd4-bd30-63f4a16504b2 "Hybrid Cloud Conference – App Security and Threat Modeler")
-[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](http://www.credly.com/badges/98e73ba9-0090-484c-9ebe-75dd70ad5754 "Docker Essentials: A Developer Introduction")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/7cdea281-ca5d-4de0-8aff-53d92ef3bba2 "Microsoft Certified: Azure Fundamentals")
-[![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](http://www.credly.com/badges/2c004c94-ed9d-471b-b422-562940d58644 "CyberOps Associate")
 <!--END_SECTION:badges-->
 
 ## 📬 Contact
