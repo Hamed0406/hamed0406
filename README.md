@@ -88,6 +88,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ## 🏅 Certifications
 
 <!--START_SECTION:badges-->
+[![LFS148: Getting Started with OpenTelemetry](https://images.credly.com/size/110x110/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob)](http://www.credly.com/badges/30daaf68-97c8-4ade-9769-b2e9b0fe93ba "LFS148: Getting Started with OpenTelemetry")
 [![LFS111: Open Source and the 5G Transition](https://images.credly.com/size/110x110/images/2a7254bb-1832-40aa-912a-7f85900f93ce/blob)](http://www.credly.com/badges/fc123d01-81c4-4aae-94d6-5d4d7f44103a "LFS111: Open Source and the 5G Transition")
 [![SKF100: Understanding the OWASP® Top 10 Security Threats](https://images.credly.com/size/110x110/images/18d8c64f-cf68-4259-b0ef-2a116e9224f1/blob)](http://www.credly.com/badges/b83a94ff-b0ed-495c-a785-77c394d2c69a "SKF100: Understanding the OWASP® Top 10 Security Threats")
 [![LFS170: Blockchain - Understanding Its Uses and Implications](https://images.credly.com/size/110x110/images/c0f9fdd5-b0f0-4d4a-b150-b7c01d9d1208/blob)](http://www.credly.com/badges/b9030c17-a3ff-46b8-a458-dccf0a2abf58 "LFS170: Blockchain - Understanding Its Uses and Implications")
@@ -135,7 +136,6 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/793640f5-99f5-445e-8d77-9fbbe527f402 "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 [![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/1cbf0444-1752-4ac8-b43c-3389004bec2a/blob)](http://www.credly.com/badges/05d4a310-82bd-429f-9147-675147c7ba71 "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/110x110/images/82966826-6630-4768-80d4-6028b3fab414/image.png)](http://www.credly.com/badges/6cf73f2b-d151-46c6-aac1-e5f4e01e77e2 "Containers & Kubernetes Essentials")
-[![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/fdcea632-b5d0-459c-a719-e1706c1faa52 "Microsoft Certified: Azure Developer Associate")
 <!--END_SECTION:badges-->
 
 ## 📬 Contact
