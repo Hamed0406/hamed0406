@@ -88,6 +88,7 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 ## 🏅 Certifications
 
 <!--START_SECTION:badges-->
+[![LFEL1009: Getting Started with OpenTofu](https://images.credly.com/size/110x110/images/e05777b4-2eba-4421-9741-90547ac41d58/blob)](http://www.credly.com/badges/bab9530b-8f13-41a0-9adb-42c6c707ebfc "LFEL1009: Getting Started with OpenTofu")
 [![LFS148: Getting Started with OpenTelemetry](https://images.credly.com/size/110x110/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob)](http://www.credly.com/badges/30daaf68-97c8-4ade-9769-b2e9b0fe93ba "LFS148: Getting Started with OpenTelemetry")
 [![LFS111: Open Source and the 5G Transition](https://images.credly.com/size/110x110/images/2a7254bb-1832-40aa-912a-7f85900f93ce/blob)](http://www.credly.com/badges/fc123d01-81c4-4aae-94d6-5d4d7f44103a "LFS111: Open Source and the 5G Transition")
 [![SKF100: Understanding the OWASP® Top 10 Security Threats](https://images.credly.com/size/110x110/images/18d8c64f-cf68-4259-b0ef-2a116e9224f1/blob)](http://www.credly.com/badges/b83a94ff-b0ed-495c-a785-77c394d2c69a "SKF100: Understanding the OWASP® Top 10 Security Threats")
@@ -135,7 +136,6 @@ Hello! I'm Hamed, a dedicated software developer passionate about exploring new 
 [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](http://www.credly.com/badges/d179ef3c-725d-4be9-a644-62503811f5b1 "Microsoft Certified: Azure Data Fundamentals")
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/793640f5-99f5-445e-8d77-9fbbe527f402 "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 [![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/1cbf0444-1752-4ac8-b43c-3389004bec2a/blob)](http://www.credly.com/badges/05d4a310-82bd-429f-9147-675147c7ba71 "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
-[![Containers & Kubernetes Essentials](https://images.credly.com/size/110x110/images/82966826-6630-4768-80d4-6028b3fab414/image.png)](http://www.credly.com/badges/6cf73f2b-d151-46c6-aac1-e5f4e01e77e2 "Containers & Kubernetes Essentials")
 <!--END_SECTION:badges-->
 
 ## 📬 Contact
